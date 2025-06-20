@@ -65,7 +65,7 @@ Each phase includes markdown documents, notebooks, visuals, and implementation d
 ▶️ Steps
 1.Clone the repository:
 
-git clone https://github.com/madhumitha-2004/liver-cirrhosis-prediction.git
+git clone https://github.com/VenkataRajesh04/liver-cirrhosis-prediction.git
 
 2.Navigate to project folder:
 
@@ -99,7 +99,7 @@ http://127.0.0.1:5000/
 | Tuned      | Yes (GridSearchCV) |
 
 🙋‍♀️ Author:
-Madhumitha Chowdary
+Venkata Rajesh Sreeram
 
 📚 License:
 This project is for academic and demonstration purposes only. Not intended for actual clinical use without validation.
